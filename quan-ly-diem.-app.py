@@ -101,4 +101,4 @@ st.pyplot(fig)
 
 # 6. Thông tin người tạo (ở cuối trang, cỡ chữ nhỏ)
 st.markdown("---")
-st.caption("Người thực hiện: Võ Anh Nhật | MSSV: 052208012779")
+st.caption("Người thực hiện: Tô Bình Nguyên | MSSV: 052208")
